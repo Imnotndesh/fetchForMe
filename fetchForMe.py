@@ -1,7 +1,6 @@
 import requests
 import time,sys
 
-
 class animations:
     def anim(self):
         animation = ["*","**","***","****","*****","******"]
